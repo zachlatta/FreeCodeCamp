@@ -15,7 +15,8 @@ const routes = [
   '/jobs',
   '/jobs/*',
   '/videos',
-  '/videos/*'
+  '/videos/*',
+  '/challenges'
 ];
 
 const devRoutes = [];
